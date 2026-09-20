@@ -7,7 +7,7 @@
 ---
 
 ## CHU DE NGHIEN CUU
-[Giao duc tieu hoc]
+Giao duc tieu hoc
 
 ---
 
